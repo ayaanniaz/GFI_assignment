@@ -184,14 +184,16 @@ This project implements a multi-stage web scraping pipeline to extract comprehen
 - **Resume Capability**: Continues from `START_INDEX` parameter
 - **Data Validation**: Checks for existing data before scraping
 
-```
-
-## Results Summary
-
-
 ### Data Quality Features
 - Validated URLs (accessibility checked)
 - Cleaned and normalized data
 - Comprehensive error handling
 - "Not Found" placeholders for missing data
 - UTF-8 encoding support
+
+```
+
+
+
+
+
