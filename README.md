@@ -186,8 +186,6 @@ This project implements a multi-stage web scraping pipeline to extract comprehen
 
 ```
 
----
-
 ## Results Summary
 
 
